@@ -1,0 +1,45 @@
+.contenedor-gorras {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.gorra {
+  width: 150px;
+  height: 250px;
+  margin: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.gorra img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 10px 10px 0 0;
+}
+
+.gorra .precio {
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+  margin-top: 10px;
+}
+
+.gorra .nombre {
+  font-size: 16px;
+  color: #666;
+  margin-top: 5px;
+}
+
+.gorra .descripcion {
+  font-size: 14px;
+  color: #999;
+  margin-top: 5px;
+  text-align: center;
+}
+
