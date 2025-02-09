@@ -1,0 +1,7 @@
+![gorra7](https://github.com/user-attachments/assets/2c7f5b27-e9a2-4d55-9abd-1019ae8c31f9)
+![gorra6](https://github.com/user-attachments/assets/40ab122e-084e-41ec-968b-4226e26dbba6)
+![gorra5](https://github.com/user-attachments/assets/d15a53ec-2e33-47ca-817b-65a71151b05d)
+![gorra4](https://github.com/user-attachments/assets/f8f3acad-8e33-49d9-b676-c067413fc592)
+![gorra3](https://github.com/user-attachments/assets/d5c18746-0dc7-432a-968b-96a736583ce6)
+![gorra2](https://github.com/user-attachments/assets/3a2e4d10-63e8-4964-a2be-76f6c8731f6f)
+![gorra1](https://github.com/user-attachments/assets/fcfe5a0e-58c6-4580-a0ac-17c82f17de4e)
